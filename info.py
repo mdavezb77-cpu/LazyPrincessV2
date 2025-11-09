@@ -14,7 +14,7 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'LazyPrincess')
 API_ID = int(environ.get('API_ID', '24245556'))
 API_HASH = environ.get('API_HASH', 'aacaf8b9b624c074b117c9653626fb2d')
-BOT_TOKEN = environ.get('BOT_TOKEN', "8337862151:AAFWXJj9bEw6OsDpW8glqUGM0-c624GdmsY")
+BOT_TOKEN = environ.get('BOT_TOKEN', "8314562821:AAFF3Ydqjmf-JRHU4efMXeXKl0hXV_A7I4o")
 
 #Port
 PORT = environ.get("PORT", "8080")
@@ -89,4 +89,5 @@ CAPTION_BUTTON = "Get Updates"
 CAPTION_BUTTON_URL = "https://t.me/LazyDeveloper"
 
    # Auto Delete For Bot Sending Files #
+
 
